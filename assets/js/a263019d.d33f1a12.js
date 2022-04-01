@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwechaty_docusaurus=self.webpackChunkwechaty_docusaurus||[]).push([[5868],{90765:function(u){u.exports=JSON.parse('{"plugin":{"name":"docusaurus-qrcode-plugin","id":"default"}}')}}]);
